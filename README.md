@@ -30,17 +30,6 @@ This is my first end-to-end Power BI project. It covers cleaning the raw HR data
 - Power Query
 - DAX
 
-## Files
-
-| File | Description |
-|------|-------------|
-| `FINAL_PRJECT.pbix` | The Power BI report |
-
-## How to Open
-
-1. Download `FINAL_PRJECT.pbix`
-2. Open it with Power BI Desktop
-
 ## Team Project 
 
 | 1 | Ibrahem Ahmed Hafez Mahmoud |
